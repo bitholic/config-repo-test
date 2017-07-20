@@ -11,3 +11,6 @@ eureka:
       defaultZone: http://localhost:1111/eureka/
   instance:
     leaseRenewalIntervalInSeconds: 5
+
+info:
+  name: test

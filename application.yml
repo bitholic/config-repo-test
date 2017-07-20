@@ -13,4 +13,4 @@ eureka:
     leaseRenewalIntervalInSeconds: 5
 
 info:
-  name: test
+  name: test2
